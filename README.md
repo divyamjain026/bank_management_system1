@@ -61,6 +61,10 @@ This project is perfect for learning:
 - 🗃 **MySQL Integration**
 - 🛡️ **Secure Programming Practices**
 
+- # **Vedio Link**
+- https://drive.google.com/file/d/1cLjbd25v37p5Meg1omNBDq-F15BQ_CVZ/view?usp=drive_link
+
+
 Whether you're a beginner or preparing for an interview, this is a practical and scalable project that strengthens your full-stack development skills using Python and MySQL.
 
 ---
